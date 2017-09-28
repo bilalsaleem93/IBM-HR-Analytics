@@ -1,0 +1,2 @@
+# IBM-HR-Analytics
+I have implemented some classification algorithms on dataset provided on Kaggle "https://www.kaggle.com/ludobenistant/hr-analytics". In these models, the goal was to use given features and predict whether employee is going to stay committed to organization or is about to quit it. There are some pretty interesting visualization also, indicating relationship among various features.
